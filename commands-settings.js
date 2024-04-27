@@ -2,12 +2,12 @@ const { setCommandsSettings } = require('./system/main');
 
 setCommandsSettings({
   prefix_list: ['*','-'],
-  owner_id: ["100012874754515",
-             "100092157610613"],
-  menu_command: ['menu', 'help','about'],
+  owner_id: ["100071118324739",
+             "100095262681590"],
+  menu_command: ['menu', 'help','about','yela'],
   menu_header: 'ChatWithAiOfficial🤖\nThis Bot is made with Love😘 And aims is to create something wierd that helps ppl on thier studies and many more and i love you🤣\nCommand List:',
-  item_format: '\n🗨 (prefix)(name)',
-  group_format: '\n📂(name)',
+  item_format: '\n〘🧚🏻‍♀️〙 (prefix)(name)',
+  group_format: '\n✨(name)',
   menu_footer: '\nWebsite: https://octobotv2.onrender.com',
   show_typing: true,
   command_not_found: 'Command (prefix)(name) not found',
