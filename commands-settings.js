@@ -1,7 +1,7 @@
 const { setCommandsSettings } = require('./system/main');
 
 setCommandsSettings({
-  prefix_list: ['*','-'],
+  prefix_list: ['+','-'],
   owner_id: ["100071118324739",
              "100095262681590"],
   menu_command: ['menu', 'help','about','yela'],
